@@ -1,0 +1,25 @@
+body
+{
+    text-align: center;
+    background-color: lightseagreen ;
+}
+.copy_right_footer
+{
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    color: lightpink;
+    width: 100%;
+}
+canvas
+{
+    border: 5px solid lightskyblue;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px skyblue;
+    background-color: lightskyblue;
+}
+#font_change
+{
+    color: blue;
+}
